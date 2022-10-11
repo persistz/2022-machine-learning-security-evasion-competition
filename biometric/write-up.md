@@ -127,6 +127,9 @@ Figure 3. The final generated adversarial example after the EOT and other optimi
 In the end, our score was 89.999548.
 
 [1] Kurakin, Alexey, Ian J. Goodfellow, and Samy Bengio. "Adversarial examples in the physical world." Artificial intelligence safety and security. Chapman and Hall/CRC, 2018. 99-112.
+
 [2] Madry, Aleksander, et al. "Towards deep learning models resistant to adversarial attacks." arXiv preprint arXiv:1706.06083 (2017).
+
 [3] Athalye, Anish, et al. "Synthesizing robust adversarial examples." International conference on machine learning. PMLR, 2018.
+
 [4] Xie, Cihang, et al. "Improving transferability of adversarial examples with input diversity." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.
