@@ -10,13 +10,8 @@ urlFragment: "Azure/2021-machine-learning-security-evasion-competition"
 
 # 2022 Machine Learning Security Evasion Competition
 
-This repository contains information about the 2022 Machine Learning Security Evasion Competition.  Participants must register at [https://mlsec.io](https://mlsec.io) and accept the terms of service in order to participate.
+This repository contains information about the 2022 Machine Learning Security Evasion Competition.  
 
-## Dates
-| Challenge         | Start Date                  |  End Date          |
-|-------------------|-----------------------------|--------------------|
-| [anti-phish](https://github.com/drhyrum/2022-machine-learning-security-evasion-competition/tree/master/antiphish)   | Aug 12, 2022 (AoE) | Sep 23, 2022 (AoE) |
-| [biometric](https://github.com/drhyrum/2022-machine-learning-security-evasion-competition/tree/master/biometric)   | Aug 12, 2022 (AoE) | Sep 23, 2022 (AoE) |
+Our team 'suibianwanwan' won the 2nd place in this year's face recognition evasion competition.
 
-
-*start and end times are Anywhere on Earth (AoE)
+The write-up is in the **biometric** folder. If you have any questions, feel free to raise issues.
