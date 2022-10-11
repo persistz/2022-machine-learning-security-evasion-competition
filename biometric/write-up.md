@@ -119,7 +119,7 @@ grads_adv = torch.nn.Upsample(size=ori_size, mode='bilinear')(grads_adv)
 On the last day, we found that all the other top players had about 300000 queries, which was several hundred times more than ours, so we used the additional strategy of warm restart greedy search. In brief, all of the above optimizations are combined with many different perturbation constraints ($L_{\infty}$, $L_2$, $L_0$), and the results of each of these combinations are recorded, saving the optimal image as the starting point for the next warm restart search.
 
 <div align="center">
-<img src=./figure3.png width=200 height=200 /> />
+<img src=./figure3.png width=200 height=200 />
 </div>
 
 Figure 3. The final generated adversarial example after the EOT and other optimizations.
